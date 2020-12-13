@@ -1,5 +1,4 @@
 const countProps = function (obj) {
-  "use strict";
   const properties = Object.keys(obj).length;
   return properties;
 };
